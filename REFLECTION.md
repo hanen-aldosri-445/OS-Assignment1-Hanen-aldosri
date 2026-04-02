@@ -45,7 +45,11 @@ With time and practice, everything became clearer and easier to implement.
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
-**Your Answer:**
+**Your Answer:**I think multithreading is used a lot in real applications like browsers and mobile apps.
+For example, when I open many tabs in a browser, each tab can run in a separate thread.
+Also in games, different threads can handle sound, graphics, and controls at the same time.
+This helps the program run faster and not freeze while doing many tasks.
+In this assignment, I saw how the CPU switches between threads, which is similar to real systems.
 
 [Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
 
