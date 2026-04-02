@@ -80,21 +80,23 @@ At this point, the thread has completed its task and will not run again.]
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: [Web Servers Handling Multiple Users]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[A web server (like Google, YouTube, or any online platform) handles many user requests at the same time, such as opening pages, logging in, or loading data. Each request can be treated as a separate thread or process.
+]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[Round-Robin is useful because it gives each request a fair and equal amount of CPU time. This prevents one request from taking too long and blocking others. As a result, all users get quick responses, and the system stays fair and responsive.
+]
 
-### Example 2: [Name of application/scenario]
+### Example 2: [Operating System Multitasking]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[In an operating system like Windows or Linux, many applications run at the same time, such as a browser, music player, and file explorer. Each application is treated as a process or thread.]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[Round-Robin works well because it switches quickly between processes and gives each one a small time slice (time quantum). This makes the system feel like all applications are running at the same time smoothly, without freezing or delaying one program too much.]
 
 ---
 
