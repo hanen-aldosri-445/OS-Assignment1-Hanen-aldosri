@@ -72,16 +72,16 @@ I started working on the project and created the Process class.
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 - [March 20, 2026, 6:50 PM]
+**What I did**: I improved the terminal output.
 
-**Details**: 
+**Details**: The program now prints clear messages for each process execution.
 
-**Challenges**: 
+**Challenges**: The output was confusing and hard to follow
 
-**Solution**: 
+**Solution**: I made the messages simpler and clearer.
 
-**Time spent**: 
+**Time spent**: 1.5 hours
 
 ---
 
