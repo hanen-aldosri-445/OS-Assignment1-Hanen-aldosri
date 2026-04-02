@@ -7,7 +7,11 @@ Answer the following questions about your learning experience. Each answer shoul
 
 ## Question 1: What did you learn about multithreading?
 
-**Your Answer:**
+**Your Answer:**I learned that multithreading allows multiple tasks to run at the same time, which makes the program more efficient.
+I understood how to create threads using Runnable and how each process runs as a separate thread.
+I also learned that threads don’t actually run at the exact same time, but they switch very fast.
+One important thing I noticed is how the CPU manages threads using scheduling like Round-Robin.
+What surprised me is how small time slices can make the execution look like everything is running together.
 
 [Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
 
