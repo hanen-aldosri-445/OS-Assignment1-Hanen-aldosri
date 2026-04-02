@@ -20,7 +20,11 @@ What surprised me is how small time slices can make the execution look like ever
 ## Question 2: What was the most challenging part of this assignment?
 
 **Your Answer:**
-
+The most challenging part was understanding how the Round-Robin scheduling works in the code.
+I was confused about how processes return to the queue after each time quantum.
+Also, calculating the waiting time correctly was not easy at first.
+It was difficult to decide where to update the waiting time in the program.
+After trying and testing the code many times, I finally understood how everything works.
 [Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
 
 ---
