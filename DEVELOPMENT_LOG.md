@@ -32,16 +32,17 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 27, 2026, 4:10 PM]
+**What I did**:
+I started working on the project and created the Process class.
 
-**Details**: 
+**Details**: I wrote the basic variables like burst time, remaining time, and priority.
 
-**Challenges**: 
+**Challenges**: I did not fully understand how to represent a process in the program
 
-**Solution**: 
+**Solution**: I reviewed how threads work and how processes are represented in scheduling.
 
-**Time spent**: 
+**Time spent**: 1 hour
 
 ---
 
