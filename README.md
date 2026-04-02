@@ -453,7 +453,8 @@ Student Name: [Hanen Abdullah Aldosri]
 Student ID: [445052141]
 GitHub Username: [Hanen-aldosri-445]
 Repository Link: [https://github.com/hanen-aldosri-445/OS-Assignment1-Hanen-aldosri]
-Video Link: [Google Drive link - make sure it's accessible to anyone with the link]
+Video Link: [https://drive.google.com/file/d/1chcgPZbjAuf8zyFhJG_laPuIAoX9D8Yz/view?usp=drivesdk]
+
 Date Submitted: [April 31, 2026 ]
 ```
 
@@ -463,7 +464,8 @@ Student Name: Mohammed Ahmed Abdullah
 Student ID: 442105123
 GitHub Username: mohammed-ahmed-441
 Repository Link: https://github.com/mohammed-ahmed-441/OS-Assignment1-Mohammed-Ahmed
-Video Link: https://drive.google.com/file/d/1aBcDeFgHiJkLmNoPqRsTuVwXyZ/view?usp=sharing
+Video Link: https://drive.google.com/file/d/1chcgPZbjAuf8zyFhJG_laPuIAoX9D8Yz/view?usp=drivesdk
+
 Date Submitted: March 31, 2026
 ```
 
