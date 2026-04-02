@@ -31,7 +31,13 @@ After trying and testing the code many times, I finally understood how everythin
 
 ## Question 3: How did you overcome the challenges you faced?
 
-**Your Answer:**
+**Your Answer:**I overcame the challenges by practicing more and not stopping when I got stuck.
+I kept running the program and observing how the processes behave each time.
+I also searched online for simple explanations about Round-Robin and threads.
+Breaking the problem into small parts helped me understand it step by step.
+With time and practice, everything became clearer and easier to implement.
+
+
 
 [Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
 
