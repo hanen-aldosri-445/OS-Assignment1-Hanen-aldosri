@@ -85,16 +85,16 @@ I started working on the project and created the Process class.
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [April 2, 2026, 9:00 AM]
+**What I did**: I tested the full program and fixed errors.
 
-**Details**: 
+**Details**: I ran the program many times to make sure everything works correctly
 
-**Challenges**: 
+**Challenges**: Some processes were finishing too fast or showing incorrect remaining time.
 
-**Solution**: 
+**Solution**: I fixed the time calculation and improved the logic.
 
-**Time spent**: 
+**Time spent**: 2 hours
 
 ---
 
