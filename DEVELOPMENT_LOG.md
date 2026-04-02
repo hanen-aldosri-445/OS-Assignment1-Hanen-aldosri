@@ -72,7 +72,7 @@ I started working on the project and created the Process class.
 
 ---
 
-### Entry 4 - [March 20, 2026, 6:50 PM]
+### Entry 4 - [March 30, 2026, 6:50 PM]
 **What I did**: I improved the terminal output.
 
 **Details**: The program now prints clear messages for each process execution.
