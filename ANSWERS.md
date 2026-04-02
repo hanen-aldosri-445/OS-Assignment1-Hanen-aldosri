@@ -107,10 +107,10 @@ At this point, the thread has completed its task and will not run again.]
 ## Summary
 
 **Key concepts I understood through these questions:**
-1. 
-2. 
-3. 
+1. Round-Robin scheduling gives each process a fair share of CPU time using a fixed time quantum.
+ 2. If a process does not finish in its time slot, it is moved back to the end of the ready queue and waits for its next turn.
+ 3. This scheduling method improves system responsiveness and works well in multitasking environments like web servers and operating systems.
 
 **Concepts I need to study more:**
-1. 
-2. 
+1. How context switching works in more detail inside the operating system.
+ 2. The differences between Round-Robin and other scheduling algorithms like Priority Scheduling and Shortest Job First (SJF).
