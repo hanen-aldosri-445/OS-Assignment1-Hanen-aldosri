@@ -46,16 +46,16 @@ I started working on the project and created the Process class.
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [March 28, 2026, 1:00 PM ]
+**What I did**: I started implementing Round-Robin scheduling.
 
-**Details**: 
+**Details**: Each process runs for a fixed time quantum and then stops.
 
-**Challenges**: 
+**Challenges**: I was not sure how to stop a process and make it run again later.
 
-**Solution**: 
+**Solution**: I used sleep and calculated the remaining time
 
-**Time spent**: 
+**Time spent**: 1.5 hours
 
 ---
 
