@@ -46,17 +46,31 @@ Then, the process is added again to the ready queue, which means it goes to the 
 
 **Your Answer:**
 
-[Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
+[In my simulation, each process (like P1) is implemented as a thread. The thread goes through several states during its lifecycle. Below is how process P1 moves through each state:]
 
-1. **New**: [When is P1 in New state?]
+1. **New**: [
+P1 is in the New state when it is first created using:
+Thread thread = new Thread(process);
+At this point, the thread exists but has not started execution yet.]
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: [
+P1 becomes Runnable after it is added to the ready queue:
+processQueue.add(thread);
+In this state, the thread is ready to run and waiting for the CPU to schedule it.]
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: [P1 enters the Running state when the scheduler starts it:
+currentThread.start();
+At this moment, the run() method is executed, and P1 begins using the CPU for its time quantum..]
 
-4. **Waiting**: [When/why would P1 be Waiting?]
+4. **Waiting**: [P1 goes into the Waiting state during execution when:
+Thread.sleep(stepTime);
+This simulates the process execution and causes the thread to pause temporarily.
+Also, after finishing its quantum and being re-added to the queue, it waits for its next turn.]
 
-5. **Terminated**: [When is P1 Terminated?]
+5. **Terminated**: [P1 reaches the Terminated state when it finishes all its execution (remaining time becomes 0).
+This is shown in the output when:
+✓ P1 finished execution!
+At this point, the thread has completed its task and will not run again.]
 
 ---
 
