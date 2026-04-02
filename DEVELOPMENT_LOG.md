@@ -59,16 +59,16 @@ I started working on the project and created the Process class.
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [March 29, 2026, 2:20 PM ]
+**What I did**: I created the Ready Queue.
 
-**Details**: 
+**Details**: I added processes into a queue so they run one after another.
 
-**Challenges**: 
+**Challenges**: Processes were not going back to the queue after their time finished.
 
-**Solution**: 
+**Solution**: I fixed it by adding the process back to the end of the queue
 
-**Time spent**: 
+**Time spent**: 1 hour
 
 ---
 
