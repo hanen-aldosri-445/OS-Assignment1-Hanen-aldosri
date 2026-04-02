@@ -113,10 +113,11 @@ I started working on the project and created the Process class.
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [Around 7–8 hours]
 
-**Most challenging part**: 
+**Most challenging part**: Understanding how Round-Robin scheduling works and how to make a process stop and then run again later using the ready queue.
 
-**Most interesting learning**: 
+**Most interesting learning**: Learning how the CPU switches between processes and how fairness is achieved using time quantum in Round-Robin scheduling.
 
-**What I would do differently next time**: 
+**What I would do differently next time**: I would plan the project better from the beginning and test each part step by step instead of building everything at once.
+
